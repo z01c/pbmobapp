@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string-array name="preferences_front_light_values">
+        <item>LIGADO</item>
+        <item>AUTOMÁTICO</item>
+        <item>DESLIGADO</item>
+    </string-array>
+
+</resources>
